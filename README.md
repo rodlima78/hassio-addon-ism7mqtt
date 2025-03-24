@@ -12,7 +12,7 @@ Also supports running multiple instances of ism7mqtt. To do so, configure the fi
 
 Note that each ISM7 needs a distinct device name without spaces or special characters.
 
-For more information, or if you encounter any issues, please refer to https://github.com/zivillian/ism7mqtt
+For more information, or if you encounter any issues, please refer to https://github.com/rodlima78/ism7mqtt
 
 
 
