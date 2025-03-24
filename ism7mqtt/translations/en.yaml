@@ -14,7 +14,7 @@ configuration:
     name: Additional ISM7 devices
     description: >-
       If you have multiple ISM7 Devices, specify them here to start ism7mqtt multiple times.
-      See here for how to configure them: https://github.com/b3nn0/hassio-addon-ism7mqtt/blob/main/README.md
+      See here for how to configure them: https://github.com/rodlima78/hassio-addon-ism7mqtt/blob/main/README.md
   mqtt_host:
     name: "External MQTT broker address"
     description: "Only needed if the broker isn't running as a Home Assistant Addon"

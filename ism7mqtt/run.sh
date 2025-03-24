@@ -57,7 +57,7 @@ function start_ism7mqtt() {
         echo "======= WARNING WARNING WARNING ======="
         echo "Your parameter file $parameters contains a lot of parameters!"
         echo "If you encounter issues with disconnects or some parameters not being updated, read here:"
-        echo "https://github.com/b3nn0/hassio-addon-ism7mqtt?tab=readme-ov-file#important-if-some-entities-are-unavailable"
+        echo "https://github.com/rodlima78/hassio-addon-ism7mqtt?tab=readme-ov-file#important-if-some-entities-are-unavailable"
         echo "======= WARNING WARNING WARNING ======="
         echo
     fi
