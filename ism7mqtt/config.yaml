@@ -1,6 +1,6 @@
 name: "[rlima] Ism7MQTT"
 description: "rodlima78 fork of addon for direct communication with a Wolf ISM7 module"
-version: "v0.0.22"
+version: "v0.0.22-rl1"
 slug: "ism7mqtt"
 init: false
 url: https://github.com/rodlima78/hassio-addon-ism7mqtt
