@@ -1,6 +1,6 @@
 name: "[rlima] Ism7MQTT Experimental"
 description: "rodlima78 fork of EXPERIMENTAL Addon for direct communication with a Wolf ISM7 module"
-version: "master-2026-08-10"
+version: "master-2026-09-21"
 slug: "ism7mqtt-experimental"
 init: false
 url: https://github.com/rodlima78/hassio-addon-ism7mqtt
